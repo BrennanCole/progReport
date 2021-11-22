@@ -2,15 +2,14 @@
 
 #### Your name
 
-TODO
+Brennan Cole
 
 #### Your section leader's name
 
-TODO
+Zhenyu Zhao
 
 #### Project title
 
-TODO
 
 ***
 
@@ -18,12 +17,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Written basic machine learning code, got the basic functions working, collected some data.
 
 #### What have you not done for your project yet?
 
-TODO
+Built a UI, figured out .exe programs, collected enough data.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Loading an ML model from a different code set, which i'm working on now. 
